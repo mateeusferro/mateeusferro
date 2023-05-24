@@ -3,8 +3,10 @@
 
  <br> <br>
 
+<div  align="center"> 
+
  [![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,html,css,cs,cpp,mysql,git&theme=dark)](https://skillicons.dev)   
-  
+  </div>
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: mateus.03fernandesaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "https://www.linkedin.com/in/mateus-fernandes-3803b622a/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

@@ -12,6 +12,6 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: mateus.03fernandesaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = "https://www.linkedin.com/in/mateus-fernandes-3803b622a/"><img width="25" src="linkedin.svg">](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "https://www.linkedin.com/in/mateus-fernandes-3803b622a/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "https://www.instagram.com/mateus_f03/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>

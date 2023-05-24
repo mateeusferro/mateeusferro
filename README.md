@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=61dbfbf&size=30&center=true&vCenter=true&width=1000&heigth=100&lines=Olá,+eu+sou+o+Mateus)](https://git.io/typing-svg)
 
 <div align="center">  
-      <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateeusferro&theme=react&line_height=40&hide=css"/> </a>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateeusferro&layout=compact&langs_count=16&theme=react"/>
+ <a href=""> <img  height="180em" src="https://github-readme-stats-sigma-fivevercel.app/api?username=mateeusferro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> </a>
+
+ <a href=""> <img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateeusferro&layout=compact&langs_count=16&theme=react"/> </a>
  <br> <br>
 
 

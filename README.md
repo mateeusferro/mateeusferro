@@ -8,9 +8,7 @@
 </div>
 <br>
 
- [![My Skills](https://skillicons.dev/icons?i=node,react,typescript,javascript,html,cs,mysql, git&theme=dark)](https://skillicons.dev)   
-
-    
+ [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,vite,typescript,javascript,html,css,bootstrap,cs,arduino,mysql,firebase,ps,figma,git&theme=dark)](https://skillicons.dev)   
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: mateus.03fernandesaraujo@gmail.com">

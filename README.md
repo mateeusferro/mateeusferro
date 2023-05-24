@@ -1,11 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=61dbfbf&size=30&center=true&vCenter=true&width=1000&heigth=100&lines=Olá,+eu+sou+o+Mateus)](https://git.io/typing-svg)
 
 
-<div>
-  <a href="https://github.com/mateeusferro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateeusferro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateeusferroo&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
  <br> <br>
 
  [![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,html,css,cs,cpp,mysql,git&theme=dark)](https://skillicons.dev)   

@@ -5,7 +5,9 @@
 
  <img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateeusferro&layout=compact&langs_count=16&theme=react"/>
  <br> <br>
-
+<div>
+ 
+ <div align="center">
 
  [![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,html,css,cs,cpp,mysql,git&theme=dark)](https://skillicons.dev)   
  

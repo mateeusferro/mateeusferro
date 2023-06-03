@@ -2,8 +2,6 @@
 
 <div align="center">  
  <img  height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateeusferro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</div>
-<div align="center">
  <img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateeusferro&layout=compact&langs_count=16&theme=react"/>
  <br> <br>
 <div>
